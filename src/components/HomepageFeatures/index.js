@@ -8,34 +8,38 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Lesan Studio is designed to be a developer friendly synthetic audio
+        generator for Amharic Languages. You give it an Amharic text of your
+        choice, our backend preprocesses, cleans, and generates the audio for
+        you
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Customizable',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lesan has hundreds of different of speakers for you to choose from for
+        your preferred reading style. Check the <code>speaker&apos;s</code>{' '}
+        documeentation.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Natural Sounding',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We use the best models, techniques, and algorithms to generate
+        state-of-the-art natural sounding audio. The generated audio can also be
+        used for commercial purposes and save you time and money.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
