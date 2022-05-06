@@ -1,9 +1,13 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: Welcome, Lesan Studio Genesis
+authors: [GedionT]
+tags: [text-to-speech, amharic, synthetic-audio, technology, nlp]
 ---
+
+## Introducing the first fully fledged synthetic audio generator for Amharic
+
+' አማርኛ ፊደላትን ያድምጡ '
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
@@ -21,5 +25,3 @@ A blog post folder can be convenient to co-locate blog post images:
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
 The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
