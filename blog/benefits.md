@@ -1,5 +1,5 @@
 ---
-slug: Benefits-of-Text-to-Speech(TTS)
+slug: tts-benefits
 title: Benefits of Text to Speech (TTS)
 authors: Fasica
 ---
