@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lesan Studio',
-  tagline: 'Documentations for Lesan Studio',
+  tagline: 'Documentations and tutorials for the community',
   url: 'https://lesan.studio',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -42,8 +42,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://admin.lesan.studio/blog-edit/request',
+          editUrl: 'https://admin.lesan.studio/blog-edit/request',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
