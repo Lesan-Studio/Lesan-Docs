@@ -1,5 +1,8 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
+
+import scrollAnimate from 'aos';
+import 'aos/dist/aos.css';
 import styles from './styles.module.css';
 
 const FeatureList = [
@@ -54,6 +57,10 @@ function Feature({ Svg, title, description }) {
 }
 
 export default function HomepageFeatures() {
+  useEffect(() => {
+    scrollAnimate.init({ duration: 2500 });
+  }, []);
+
   return (
     <section className={styles.features}>
       <div className="container">
