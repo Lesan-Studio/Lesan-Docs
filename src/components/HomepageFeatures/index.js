@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/world.svg').default,
     description: (
       <>
         Lesan Studio is designed to be a developer friendly synthetic audio
@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'Customizable',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/advanced_customization.svg').default,
     description: (
       <>
         Lesan has hundreds of different of speakers for you to choose from for
@@ -28,7 +28,7 @@ const FeatureList = [
   },
   {
     title: 'Natural Sounding',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/artificial_intelligence.svg').default,
     description: (
       <>
         We use the best models, techniques, and algorithms to generate
