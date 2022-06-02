@@ -16,8 +16,8 @@ function HomepageHeader() {
     init(typed, {
       showCursor: false,
       strings: ['ልሳን ስቱዲዪ'],
-      typeSpeed: 9,
-      startDelay: 2600,
+      typeSpeed: 200,
+      startDelay: 4200,
       loop: false,
     });
   }, []);
@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Community Documentation for Lesan Studio"
+      description="Documentation for Lesan Studio Community"
     >
       <HomepageHeader />
       <main data-aos="fade-down">
