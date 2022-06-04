@@ -129,8 +129,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: 'Lesan-Docs',
-        apiKey: 'xxxxxxxxxx',
+        appId: 'KWPTIVZGFL',
+        apiKey: '29dddb39357b2fb3a21bfd17ff653b40',
         indexName: 'lesan_studio',
         searchPagePath: 'search',
         algoliaOptions: {}, // Optional, if provided by Algolia
