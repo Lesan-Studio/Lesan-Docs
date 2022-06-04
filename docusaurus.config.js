@@ -102,6 +102,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/lesanstudio',
               },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/lesanearbot',
+              },
             ],
           },
           {
