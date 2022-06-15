@@ -4,9 +4,9 @@ sidebar_position: 5
 
 # Deploy your site
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+Lesan is a **synthetic audio generator** (also called **[NLP TTS](https://jamstack.org/)**).
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+It builds your site as simple **audio files in the language trained on**.
 
 ## Build your site
 

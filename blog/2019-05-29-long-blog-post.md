@@ -2,7 +2,7 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: GedionT
-tags: [hello, docusaurus]
+tags: [hello, getting started]
 ---
 
 This is the summary of a very long blog post,
